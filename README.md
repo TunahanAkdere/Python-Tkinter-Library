@@ -1,6 +1,6 @@
 # **Python Tkinter Library Presentation** 📚🖥️
 
-Python Tkinter Library is a project that provides a collection of Python Tkinter widgets and utilities for building graphical user interfaces (GUIs). This library simplifies the process of creating desktop applications with Tkinter, offering reusable components and functionalities.
+Python Tkinter Presentation App is a project that provides tools for creating presentation applications using Tkinter in Python. This library simplifies the process of developing desktop applications for presentations, offering reusable components and functionalities to build interactive and visually appealing presentations. 🎤📊
 
 ## **Introduction** 🚀
 
